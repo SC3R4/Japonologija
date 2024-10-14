@@ -14,3 +14,4 @@
 11. \-\-\- -> splitter
 12. \%\% \%\% -> comment
 13. \> -> blockquotes
+14. ALT + I -> Embed links
