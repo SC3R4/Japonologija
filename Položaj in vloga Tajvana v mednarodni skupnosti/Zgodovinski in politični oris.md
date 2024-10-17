@@ -48,13 +48,13 @@
 	- Druga teorija, da je bil otok del evrazijske kontinentalne mase
 
 - Stališče LR Kitajske
-	- LRK ne odstopa od načela, da je na svetu samo ena Kitajska in da je Ljudska republika Kitajska edina legitimna vlada ki tp++predstavlja kitajsko ljustovo. 
+	- LRK ne odstopa od načela, da je na svetu samo ena Kitajska in da je Ljudska republika Kitajska edina legitimna vlada ki to predstavlja kitajsko ljudstvo. 
 - Stališče Tajvana
-	- Tajvanska vlada vztraja na stališču, da je republika kitajska na tavjanju de facto neodvisn in suverene država
+	- Tajvanska vlada vztraja na stališču, da je republika kitajska na tajvanu de facto neodvisna in suverene država
 - Člen 8
-	- LRK v ustavi je zapisano, da kitajska uporabi diplmatske poti, da bi se tajvan združil s kitajsko, lahko pa uporabi tudi vojaške sile, če vidi, da je to edina rešitev.
+	- LRK v ustavi je zapisano, da kitajska uporabi diplomatske poti, da bi se tajvan združil s kitajsko, lahko pa uporabi tudi vojaške sile, če vidi, da je to edina rešitev.
 	- Strategija miroljubne aneksije:
-		- pravna (mednarodna izlacija tajvana)
+		- pravna (mednarodna izolacija tajvana)
 		- gospodarska (gospodarska odvisnost od LRK)
 		- medijska (lažne novice, propaganda)
 		- psihološka (zastraševanje in vojaški pritisk)
