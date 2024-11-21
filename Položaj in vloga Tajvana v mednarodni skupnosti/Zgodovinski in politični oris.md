@@ -61,3 +61,28 @@
 
 Domača naloga
 High tensions between taiwan and china dokumentarec
+
+# Zgodovina
+
+- Korejska vojna (1950-1953)
+	- razlog, da Mao Tse Tung ne zavzame Tajvana
+- LRK je imenovana za legitimno kitajsko leta  oktobra 1971
+	- ZN z resolucijo 2758 prizna LRK
+	- Tajvan se odreče temu nazivu
+- Diplomatski šok za Tajvan s strani ameriških zunanjih politik
+	- Kissinger obišče LRK
+	- Nixon je prvi predsednik ZDA, ki obišče LRK
+	- Ping pong diplomacija
+		- LRK povabi ameriško ping pong ekipo -> pretveza za diplomatsko zbliževanje LRK in ZDA
+- Nixon Izjavi da je LRK legitimna Kitajska leta 1972
+	- Ne proznavajo Tajvana
+	- Umik ameriških enot
+	- Nixon obišče Kitajsko
+	- To povzroči Tajvanizacijo
+- 1978 ZDA naznanijo prekinitev diplomatiskih vezi s Tajvanom
+- 1979
+- 1982
+- WUFI - World UNited Formosans for Independence
+- 1986 Ustanovitev DNS, prve večstrankarske volitve v Državni zbor in Zakonodajni Yuan
+- 1987 Veljava preklica začasnih določb v ustavi RK
+	- Konec Vojaške diktature
